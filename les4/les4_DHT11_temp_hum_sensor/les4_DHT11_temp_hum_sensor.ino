@@ -25,7 +25,7 @@ int lichtHoeveelheid;
 ESP8266WebServer server(80); // maak een instantie van de webserver op poort 80
 
 // your data
-String studentName = "Jacob student nummer 32894"; // jouw student nummer + naam
+String studentName = "Tygo Jedema 33966"; // jouw student nummer + naam
 
 const char* ssid = "Medialab";
 const char* password = "Mediacollege2";
